@@ -1,0 +1,6 @@
+D:\BD3-Labs-master\Lab3\Lab3\bin\Debug\Lab3.dll
+D:\BD3-Labs-master\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\BD3-Labs-master\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\BD3-Labs-master\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\BD3-Labs-master\Lab3\Lab3\obj\Debug\Lab3.dll
+D:\BD3-Labs-master\Lab3\Lab3\obj\Debug\Lab3.pdb
